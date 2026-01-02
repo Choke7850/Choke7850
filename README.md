@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Choke7850 (Choke)
 
-I am a 17-year-old student (Grade 11) and a **System & Electronics Enthusiast** based in Thailand.  
+I am a 17-year-old student (Grade 10) and a **System & Electronics Enthusiast** based in Thailand.  
 I have a deep passion for electronics theory, hardware modification, and building scalable server applications.
 
 ### 👀 I’m interested in
